@@ -1,0 +1,9 @@
+/* não pode haver espaço nem virgula entre as propriedades */
+
+/* .ng-invalid:not(form).ng-touched {
+    border: 1px solid red;
+} */
+
+.field-error {
+    border: 1px solid red;
+}
